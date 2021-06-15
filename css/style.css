@@ -1,0 +1,16 @@
+body{
+    background-image: url(../img/wallpaper.jpeg);
+    background-size: 100% 100vh;
+}
+
+.titleStyle{
+    background-color: rgba(138, 48, 221, 0.8);
+}
+
+.title{
+    color: white;
+}
+
+form{
+    margin-top: 10vh;
+}
